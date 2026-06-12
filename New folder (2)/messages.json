@@ -1,9 +1,50 @@
 [
 {
-  "MessageID": "ef64aac8-a5d8-4f93-bfbf-5899da288c41",
+  "MessageID": "8393eab3-99cf-409a-93d6-ebfbd89c294f",
   "MessageNumber": 1,
-  "Recipient": "0603509694",
-  "Message": "gyg ijbjd hvwdohdbjhch iwqhjdb ",
-  "MessageHash": "ef141"
+  "Recipient": "+27834557896",
+  "Message": "Did you get the cake?",
+  "MessageHash": "8314f",
+  "Flag": "Sent"
+},
+{
+  "MessageID": "bc7a767f-96a1-4f0c-a2bf-3c4481f11e70",
+  "MessageNumber": 2,
+  "Recipient": "+27838884567",
+  "Message": "Where are you? You are late! I have asked you to be on time.",
+  "MessageHash": "bc270",
+  "Flag": "Stored"
+},
+{
+  "MessageID": "a7d214f5-fc6a-48f8-94e2-49cbbe18e4ec",
+  "MessageNumber": 3,
+  "Recipient": "+27834484567",
+  "Message": "Yohoooo, I am at your gate.",
+  "MessageHash": "a73ec",
+  "Flag": "Disregard"
+},
+{
+  "MessageID": "bbb85ad7-12ea-4d6a-ba63-f4ea9334bc7a",
+  "MessageNumber": 4,
+  "Recipient": "0838884567",
+  "Message": "It is dinner time !",
+  "MessageHash": "bb47a",
+  "Flag": "Sent"
+},
+{
+  "MessageID": "6b038fa2-f711-4354-af06-5e52a2a753e3",
+  "MessageNumber": 5,
+  "Recipient": "+27838884567",
+  "Message": "Ok, I am leaving without you.",
+  "MessageHash": "6b5e3",
+  "Flag": "Stored"
+},
+{
+  "MessageID": "596da551-73a8-4c16-a2c9-11d2a54c4482",
+  "MessageNumber": 1,
+  "Recipient": "i love you ",
+  "Message": "i love you so much ",
+  "MessageHash": "59182",
+  "Flag": "Sent"
 }
 ]
